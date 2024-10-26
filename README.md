@@ -1,5 +1,5 @@
 # openai-api
-A repo which contains the notebooks I used and learned from during day 3 of the AIFirst BootCamp.
+A repo containing the notebooks I used and learned from during day 3 of the AIFirst BootCamp.
 
 # Things I learned:
 
