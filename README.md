@@ -7,4 +7,8 @@ A repo containing the notebooks I used and learned from during day 3 of the AI F
 - OpenAI API
 - streamlit lib
 
+Act1: How to use OpenAI API </br>
+Act2: Used the IMDB dataset and OpenAI API for sentiment analysis
+Act3: Summarized news using OpenAI API
+
 Huge thanks to Danielle and the team for facilitating the session!
